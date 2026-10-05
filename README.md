@@ -38,7 +38,7 @@ Commit message:
 
 ---
 
-## Iteration 3
+## Iteration 3: final version passing all tests
 
 Final behavior:
 - The method returns the largest value in the array and returns Integer.MIN_VALUE when the array is empty.
