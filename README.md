@@ -6,7 +6,7 @@ Travis Doughty
 ## GitHub Repository Link:
 https://github.com/A-Sour-Boy/cmsc115_unit8_lab2
 
-## Iteration 1
+## Iteration 1: AI-generated implementation
 
 What the AI code does:
 - The AI-generated code added all numbers in the array and returned the total sum.
