@@ -22,7 +22,7 @@ Commit message:
 
 ---
 
-## Iteration 2
+## Iteration 2: largest value implementation
 
 What changed:
 - The method was changed to return the largest value in the array instead of the sum.
